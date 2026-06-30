@@ -1,0 +1,7 @@
+{
+  "/api/knowledge-base/route": "app/api/knowledge-base/route.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/inbox/page": "app/dashboard/inbox/page.js",
+  "/dashboard/knowledge-base/page": "app/dashboard/knowledge-base/page.js",
+  "/dashboard/escalations/page": "app/dashboard/escalations/page.js"
+}
