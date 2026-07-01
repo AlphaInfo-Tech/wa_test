@@ -1,4 +1,6 @@
 {
-  "/login/page": "app/login/page.js",
-  "/dashboard/inbox/page": "app/dashboard/inbox/page.js"
+  "/api/knowledge-base/route": "app/api/knowledge-base/route.js",
+  "/page": "app/page.js",
+  "/dashboard/inbox/page": "app/dashboard/inbox/page.js",
+  "/dashboard/knowledge-base/page": "app/dashboard/knowledge-base/page.js"
 }
